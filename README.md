@@ -43,9 +43,9 @@
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nafisa-israt&show_icons=true&locale=en" alt="nafisa-israt" />
+  <img align="center" src="https://github.com/nafisa-israt" alt="nafisa-israt" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nafisa-israt" alt="nafisa-israt" />
+  <img align="center" src="https://github.com/nafisa-israt" alt="nafisa-israt" />
 </p>
