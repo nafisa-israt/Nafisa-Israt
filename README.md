@@ -38,14 +38,5 @@
   </a>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nafisa-israt&show_icons=true&locale=en&layout=compact" alt="nafisa-israt" />
-</p>
 
-<p>&nbsp;
-  <img align="center" src="https://github.com/nafisa-israt" alt="nafisa-israt" />
-</p>
 
-<p>
-  <img align="center" src="https://github.com/nafisa-israt" alt="nafisa-israt" />
-</p>
