@@ -4,12 +4,9 @@
 
 <h1 align="center">Hi 👋, I'm Nafisa Anjum Israt</h1>
 
-<h3 align="center">A passionate Web Stack Developer from Bangladesh 🇧🇩</h3>
-
 <p align="center">
-  I enjoy building clean, responsive and user-friendly web applications.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Passionate+Web+Stack+Developer;Frontend+Developer+in+Progress;React+%7C+JavaScript+%7C+TypeScript;Always+Learning+%26+Building" alt="Typing SVG" />
 </p>
-
 ---
 
 ## 👩‍💻 About Me
